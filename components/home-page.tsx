@@ -21,7 +21,7 @@ export function HomePage() {
       <header className="px-4 lg:px-6 h-14 flex items-center">
         <Link className="flex items-center justify-center" href="#">
           <MountainIcon className="h-6 w-6" />
-          <span className="sr-only">Rural School</span>
+          <span className="sr-only">Hazrat Ayesha Siddiqua (R.) High School</span>
         </Link>
         <nav className="ml-auto flex gap-4 sm:gap-6">
           <Link
@@ -61,7 +61,7 @@ export function HomePage() {
           <div className="container flex flex-col items-center justify-center gap-4 px-4 text-center md:px-6">
             <div className="space-y-2">
               <h1 className="text-4xl font-bold tracking-tighter sm:text-5xl md:text-6xl">
-                Bridging the Gap
+                  Hazrat Ayesha Siddiqua (R.) High School
               </h1>
               <p className="max-w-[700px] text-gray-500 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed dark:text-gray-400">
                 Providing quality education to rural children. Your support can

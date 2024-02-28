@@ -5,8 +5,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Lala Bazar School",
-  description: "Rural school in need of your support",
+  title: "Hazrat Ayesha Siddiqua (R.) High School",
+  description: "Rural school in Lala Bazar, Sylhet, in need of your support",
 };
 
 export default function RootLayout({
